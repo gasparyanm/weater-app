@@ -1,0 +1,11 @@
+*/node_modules
+
+# local env files
+*/.env
+
+backend/public/hot
+backend/public/storage
+backend/storage/*.key
+backend/vendor
+*/.idea
+*/.vscode
